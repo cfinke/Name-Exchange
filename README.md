@@ -2,4 +2,4 @@ Name Exchange is an app that manages exchanging names for a gift exchange.  It e
 
 Name Exchange can also handle multiple groups of people where nobody should receive a name from someone in his or her own group. An example of this would be a gift exchange in an extended family where you do not want people exchanging gifts with people in their own households.
 
-A working implementation is available at http://giftexchange.efinke.com/
+A working implementation is available at [http://giftexchange.efinke.com/](http://giftexchange.efinke.com/)
