@@ -1,1 +1,3 @@
-A script to email family members that are part of a name exchange.  The only rule is that a person cannot draw the name of someone in their own household.  Of course, this rule won't work for all family combinations - if you have one household of three people and another of two, there is no way to enforce the intra-household restriction.
+Name Exchange is an app that manages exchanging names for a gift exchange.  It emails each participant their selected name and ensures that nobody receives his or her own name.
+
+Name Exchange can also handle multiple groups of people where nobody should receive a name from someone in his or her own group. An example of this would be a gift exchange in an extended family where you do not want people exchanging gifts with people in their own households.
