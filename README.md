@@ -1,0 +1,1 @@
+A script to email family members that are part of a name exchange.  The only rule is that a person cannot draw the name of someone in their own household.  Of course, this rule won't work for all family combinations - if you have one household of three people and another of two, there is no way to enforce the intra-household restriction.
